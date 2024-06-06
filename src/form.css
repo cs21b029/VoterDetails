@@ -1,0 +1,55 @@
+.form {
+    margin-top: 10%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .form .MuiFormControl-root {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .form .MuiInputBase-root {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .form label {
+    font-size: 16px;
+    margin-bottom: 10px;
+    display: block;
+  }
+  
+  .form .MuiRadioGroup-root {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .form .MuiButtonBase-root {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .submitted-data {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #e9e9e9;
+  }
+  
+  .submitted-data h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .submitted-data p {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+  
